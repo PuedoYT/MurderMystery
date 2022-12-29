@@ -1,0 +1,9 @@
+name: CPMurderMystery
+version: '${project.version}'
+main: crackpixel.murdermystery.Main
+authors: [Puedo]
+commands:
+  sendtitle:
+  murder-mystery:
+    aliases:
+      - mm

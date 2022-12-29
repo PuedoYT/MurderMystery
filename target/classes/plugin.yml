@@ -1,0 +1,9 @@
+name: CPMurderMystery
+version: '1.0-SNAPSHOT'
+main: crackpixel.murdermystery.Main
+authors: [Puedo]
+commands:
+  sendtitle:
+  murder-mystery:
+    aliases:
+      - mm
